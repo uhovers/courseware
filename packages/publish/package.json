@@ -1,0 +1,43 @@
+{
+    "name": "publish",
+    "version": "0.0.1",
+    "description": "自动把构建完的资源提交到工程目录",
+    "author": "Shaowenty",
+    "main": "main.js",
+    "main-menu": {
+        "Packages/文件管理/文件管理": {
+            "message": "publish:FileManage"
+        },
+        "Packages/文件管理/替换原md5相同文件": {
+            "message": "publish:WriteSameFile"
+        },
+        "Packages/文件管理/替换文件原md5相同文件不被替换": {
+            "message": "publish:NoWriteSameFile"
+        },
+        "Packages/压缩文件/压缩Texture下文件": {
+            "message": "publish:compress"
+        },
+        "Packages/压缩文件/不压缩Texture": {
+            "message": "publish:unwantedCompressTexure"
+        },
+        "Packages/压缩文件/压缩Skeleton下文件": {
+            "message": "publish:compressSkeleton"
+        },
+        "Packages/压缩文件/不压缩Skeleton下文件": {
+            "message": "publish:unwantedCompressSkeleton"
+        },
+        "Packages/压缩文件/压缩resources/Skeleton下文件": {
+            "message": "publish:compressResourcesSkeleton"
+        },
+        "Packages/压缩文件/压缩resources/不压缩Skeleton下文件": {
+            "message": "publish:unwantedCompressResourcesSkeleton"
+        },
+        "Packages/压缩文件/压缩resources/texture下文件": {
+            "message": "publish:compressResourcesTexture"
+        }
+      
+    },
+    "dependencies": {
+        "images": "^3.0.1"
+    }
+}

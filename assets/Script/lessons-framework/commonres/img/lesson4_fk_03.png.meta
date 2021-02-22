@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "558652c0-25fe-4898-bdf9-1ba9c6ece407",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lesson4_fk_03": {
+      "ver": "1.0.3",
+      "uuid": "fbd20017-e797-443a-963e-62dce5e3900b",
+      "rawTextureUuid": "558652c0-25fe-4898-bdf9-1ba9c6ece407",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 302,
+      "height": 308,
+      "rawWidth": 302,
+      "rawHeight": 308,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

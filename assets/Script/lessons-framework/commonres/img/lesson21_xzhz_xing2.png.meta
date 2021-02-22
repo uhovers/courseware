@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9bb53cb4-e34d-45b1-8041-c88aa04ca804",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lesson21_xzhz_xing2": {
+      "ver": "1.0.3",
+      "uuid": "235ab2ab-6662-4978-8135-a0f015b70282",
+      "rawTextureUuid": "9bb53cb4-e34d-45b1-8041-c88aa04ca804",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 101,
+      "rawWidth": 105,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
