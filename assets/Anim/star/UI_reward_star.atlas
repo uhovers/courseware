@@ -1,0 +1,62 @@
+
+UI_reward_star.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 172
+  size: 337, 337
+  orig: 337, 337
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: false
+  xy: 203, 138
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+line_2
+  rotate: true
+  xy: 176, 101
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+line_3
+  rotate: false
+  xy: 176, 135
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+line_4
+  rotate: false
+  xy: 341, 428
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+line_5
+  rotate: false
+  xy: 391, 496
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1
+star_m1
+  rotate: false
+  xy: 341, 458
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
