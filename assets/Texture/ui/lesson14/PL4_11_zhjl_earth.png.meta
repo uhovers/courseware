@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fcb52cd2-60ce-4309-96a2-25309ec1e9b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "PL4_11_zhjl_earth": {
+      "ver": "1.0.3",
+      "uuid": "0e7b9a23-831e-4a51-86b3-76ec370de7b8",
+      "rawTextureUuid": "fcb52cd2-60ce-4309-96a2-25309ec1e9b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 414,
+      "height": 486,
+      "rawWidth": 414,
+      "rawHeight": 486,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

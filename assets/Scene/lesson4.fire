@@ -214,7 +214,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 6
@@ -292,7 +292,7 @@
     },
     "_children": [],
     "_tag": -1,
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 8
@@ -351,7 +351,7 @@
     "_N$skeletonData": {
       "__uuid__": "2b81b049-2a33-4a5b-a417-174bac732fa0"
     },
-    "_N$timeScale": 1,
+    "_N$timeScale": 0,
     "_N$debugSlots": false,
     "_N$debugBones": false
   },

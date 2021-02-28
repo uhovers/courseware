@@ -1,0 +1,48 @@
+
+ui_cgcg_ani.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_cgcg
+  rotate: false
+  xy: 2, 731
+  size: 452, 496
+  orig: 452, 496
+  offset: 0, 0
+  index: -1
+di_cgcg
+  rotate: false
+  xy: 2, 1229
+  size: 562, 572
+  orig: 562, 572
+  offset: 0, 0
+  index: -1
+effect_star
+  rotate: false
+  xy: 456, 1176
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+hao_cgcg
+  rotate: false
+  xy: 1059, 1472
+  size: 311, 329
+  orig: 311, 329
+  offset: 0, 0
+  index: -1
+light_cgcg
+  rotate: false
+  xy: 566, 1380
+  size: 491, 421
+  orig: 491, 421
+  offset: 0, 0
+  index: -1
+word_cgcg
+  rotate: true
+  xy: 2, 2
+  size: 727, 180
+  orig: 727, 180
+  offset: 0, 0
+  index: -1
