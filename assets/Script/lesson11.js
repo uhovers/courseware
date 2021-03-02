@@ -10,6 +10,7 @@ cc.Class({
     properties: {
         ClickBtn: [cc.Node],
         RightBtn: [cc.Node],
+        selectBox: cc.Node,
         _rightCount: 0,
     },
 
@@ -19,9 +20,10 @@ cc.Class({
     },
 
     start() {
+        this.selectBox.active = false;
         this.ClickBtn.forEach((btn, index) => {
             let prePos = btn.getPosition();
-            console.log(prePos);
+            // console.log(prePos);
             TouchUtil.addClickBtn(btn, () => {
                 let _index = this.RightBtn.indexOf(btn);
                 btn.stopAllActions();
@@ -31,7 +33,12 @@ cc.Class({
                     console.log('选对了');
                     this.playAudioRight();
                     TouchUtil.removeClickBtn(btn);
-                    ActionUtil.shakeAction(btn);
+                    // ActionUtil.shakeAction(btn);
+                    let n = cc.instantiate(this.selectBox);
+                    n.active = true
+                    n.position = cc.v2(0,0)
+                    btn.addChild(n)
+
                 } else {
                     console.log('选错了');
                     this.playAudioWrong();
